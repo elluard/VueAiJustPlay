@@ -4,6 +4,7 @@
 
 ## 목표
 - 원하는 개발툴을 설치합니다. (Cursor AI, Antigravity 등...)
+- GitHub Desktop 을 설치합니다.
 - GitHub 에 가입한 후 로그인 합니다. 
 - https://github.com/elluard/VueAiJustPlay 소스코드를 clone 합니다. 
 - package.json 을 확인하여, 필요한 패키지를 설치합니다. 
@@ -13,6 +14,7 @@
 
 
 ## 힌트
+- GitHub Desktop https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
 - Github 에서 소스코드 내려받기 https://kang-james.tistory.com/entry/GitGithub-%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8CGithub%EC%9D%98-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0
 - MAC OS 에서 node 설치하기 https://www.promleeblog.com/blog/post/120-macos-nodejs
 - Windows 에서 node 설치하기 https://debianizer.tistory.com/233
