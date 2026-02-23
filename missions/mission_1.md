@@ -15,6 +15,6 @@
 
 ## 힌트
 - GitHub Desktop https://docs.github.com/ko/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
-- Github 에서 소스코드 내려받기 https://kang-james.tistory.com/entry/GitGithub-%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8CGithub%EC%9D%98-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%82%B4%EB%A0%A4%EB%B0%9B%EA%B8%B0
+- Github 에서 소스코드 내려받기 https://docs.github.com/ko/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop
 - MAC OS 에서 node 설치하기 https://www.promleeblog.com/blog/post/120-macos-nodejs
 - Windows 에서 node 설치하기 https://debianizer.tistory.com/233
